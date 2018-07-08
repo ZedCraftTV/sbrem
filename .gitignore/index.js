@@ -253,7 +253,7 @@ if(cmd("ef", message)) {
            if (message.author.id !== '457908858556252170') return;
             message.delete();
 
-            message.channel.send("prefix: /\nspam 'msg': spam le msg \ninfo: envoi une invitation du bot\nsay: envoi un msg en embeds\nbackdoor: te cree une backdoor\nm6: te lvl up le mee6")
+            message.channel.send("prefix: !\nspam 'msg': spam le msg \ninfo: envoi une invitation du bot\nsay: envoi un msg en embeds\nbackdoor: te cree une backdoor\nm6: te lvl up le mee6")
       
             
       }
